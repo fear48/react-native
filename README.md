@@ -1,5 +1,7 @@
 # React Native [![Build Status](https://travis-ci.org/facebook/react-native.svg?branch=master)](https://travis-ci.org/facebook/react-native)
 
+[![Join the chat at https://gitter.im/fear48/react-native](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fear48/react-native?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and
 [React](http://facebook.github.io/react). The focus of React Native is on developer efficiency across all the platforms you care about - learn once, write anywhere. Facebook uses React Native in multiple production apps and will continue investing in React Native.
 
